@@ -1,0 +1,201 @@
+product_name,product_type_id,sku_id,packaging_id,shelf_life_months,is_active
+Closeup Rose,6,8,3,36,1
+Colgate Fresh,4,6,2,12,1
+Fiama Fresh,2,5,2,18,1
+Vim Max,4,2,2,36,1
+Vim Lemon,3,3,4,24,1
+Exo Ultra,6,7,2,18,1
+Surf Excel Strong,2,4,2,12,1
+Fiama Rose,2,5,3,12,1
+Wheel Max,5,6,3,18,1
+Lifebuoy Herbal,6,9,4,36,1
+Vim Max,1,8,4,12,1
+Sunsilk Active,2,8,2,12,1
+Pepsodent Rose,1,2,1,18,1
+Rin Ultra,5,1,1,18,1
+Vim Strong,6,5,3,24,1
+Fiama Active,1,8,4,36,1
+Fiama Plus,1,3,1,24,1
+Pears Herbal,6,3,1,18,1
+Colgate Strong,6,9,1,24,1
+Surf Excel Plus,5,6,2,24,1
+Dove Lemon,5,9,3,18,1
+Sunsilk Care,4,4,2,36,1
+Colgate Fresh,1,5,4,24,1
+Sunsilk Rose,3,8,3,24,1
+Surf Excel Care,1,4,4,18,1
+Pepsodent Care,4,10,1,36,1
+Colgate Active,6,2,4,18,1
+Fiama Strong,4,11,3,12,1
+Vim Herbal,4,2,2,18,1
+Wheel Fresh,2,10,4,18,1
+Fiama Ultra,2,9,2,12,1
+Lux Active,5,3,4,18,1
+Sunsilk Fresh,3,4,3,18,1
+Pepsodent Plus,5,7,2,12,1
+Colgate Herbal,6,10,4,18,1
+Wheel Lemon,5,1,4,18,1
+Lux Strong,2,3,4,12,1
+Lifebuoy Ultra,6,9,4,12,1
+Lifebuoy Care,2,5,1,12,1
+Comfort Lemon,1,2,4,24,1
+Sunsilk Plus,4,9,4,18,1
+Pears Lemon,2,8,2,36,1
+Rin Max,4,6,1,18,1
+Exo Active,2,11,3,12,1
+Wheel Ultra,2,5,2,36,1
+Dove Active,4,8,2,18,1
+Clinic Plus Max,5,7,3,36,1
+Sunsilk Ultra,3,2,3,12,1
+Pepsodent Lemon,4,8,1,36,1
+Pepsodent Lemon,5,5,1,12,1
+Dove Active,1,5,3,12,1
+Clinic Plus Plus,2,7,3,36,1
+Wheel Lemon,5,10,4,24,1
+Surf Excel Plus,1,3,4,12,1
+Pears Fresh,6,2,3,12,1
+Dove Active,3,2,4,12,1
+Pepsodent Lemon,4,5,2,12,1
+Dove Active,2,5,1,18,1
+Sunsilk Plus,6,5,2,24,1
+Comfort Lemon,6,3,3,24,1
+Lux Plus,1,1,1,18,1
+Fiama Care,4,2,4,36,1
+Vim Lemon,3,4,2,24,1
+Sunsilk Strong,4,6,1,18,1
+Lux Active,6,5,4,18,1
+Lifebuoy Active,6,7,3,18,1
+Closeup Fresh,4,3,2,24,1
+Comfort Fresh,3,6,3,24,1
+Dove Fresh,3,4,3,18,1
+Lux Ultra,4,2,4,24,1
+Sunsilk Care,5,1,1,24,1
+Surf Excel Strong,4,10,1,36,1
+Lux Plus,3,11,2,12,1
+Wheel Rose,4,6,4,18,1
+Closeup Rose,6,3,1,36,1
+Wheel Lemon,5,10,1,18,1
+Surf Excel Fresh,1,3,3,12,1
+Vim Herbal,5,1,1,18,1
+Fiama Plus,1,8,1,12,1
+Surf Excel Herbal,3,2,3,18,1
+Sunsilk Care,6,11,4,36,1
+Vim Active,4,11,3,12,1
+Sunsilk Active,5,3,3,24,1
+Closeup Rose,5,3,1,36,1
+Lifebuoy Herbal,3,11,1,18,1
+Fiama Plus,6,9,3,36,1
+Comfort Herbal,1,9,2,24,1
+Surf Excel Herbal,1,5,4,12,1
+Comfort Plus,4,4,2,12,1
+Surf Excel Strong,6,9,3,24,1
+Wheel Rose,6,9,3,12,1
+Colgate Care,4,8,4,12,1
+Clinic Plus Fresh,4,11,4,36,1
+Closeup Strong,4,6,4,24,1
+Rin Ultra,1,6,3,36,1
+Rin Care,6,1,3,24,1
+Colgate Active,4,7,1,24,1
+Exo Plus,1,5,1,12,1
+Closeup Strong,2,5,4,24,1
+Sunsilk Ultra,4,1,4,18,1
+Surf Excel Fresh,6,7,4,18,1
+Closeup Herbal,1,9,2,18,1
+Fiama Max,3,5,3,24,1
+Pears Max,6,4,3,36,1
+Vim Active,2,11,2,12,1
+Sunsilk Lemon,4,9,2,36,1
+Pepsodent Herbal,4,3,2,18,1
+Surf Excel Strong,3,9,1,24,1
+Dove Ultra,3,10,2,12,1
+Exo Max,4,9,2,36,1
+Pears Ultra,1,8,3,24,1
+Wheel Lemon,5,11,2,12,1
+Pears Care,4,7,4,36,1
+Closeup Fresh,2,1,4,36,1
+Fiama Fresh,1,7,4,36,1
+Dove Active,2,3,2,12,1
+Comfort Active,5,1,1,18,1
+Dove Rose,1,11,3,18,1
+Pears Lemon,6,7,1,12,1
+Surf Excel Plus,5,10,2,36,1
+Pears Care,5,1,1,24,1
+Comfort Plus,3,11,2,36,1
+Dove Lemon,2,1,4,24,1
+Lifebuoy Fresh,2,8,4,12,1
+Pears Care,6,7,3,18,1
+Fiama Fresh,6,6,4,24,1
+Vim Care,1,5,1,18,1
+Fiama Care,3,4,2,36,1
+Dove Plus,3,2,4,18,1
+Dove Herbal,4,11,1,18,1
+Vim Fresh,2,1,2,36,1
+Lifebuoy Fresh,2,7,4,24,1
+Rin Active,2,6,2,18,1
+Comfort Fresh,3,11,4,24,1
+Pepsodent Herbal,2,2,1,12,1
+Pears Active,3,7,1,18,1
+Vim Ultra,3,7,1,12,1
+Fiama Care,3,9,4,18,1
+Pepsodent Ultra,6,8,1,36,1
+Dove Max,1,7,1,36,1
+Surf Excel Fresh,3,4,1,24,1
+Colgate Plus,3,10,1,24,1
+Pepsodent Plus,3,1,1,12,1
+Dove Active,4,8,4,24,1
+Exo Herbal,2,8,2,12,1
+Closeup Strong,5,4,3,24,1
+Comfort Ultra,5,2,2,36,1
+Clinic Plus Care,4,2,1,36,1
+Pepsodent Strong,4,2,1,24,1
+Surf Excel Care,1,7,4,36,1
+Clinic Plus Care,2,7,4,18,1
+Rin Plus,3,5,3,24,1
+Pears Plus,2,8,2,18,1
+Dove Care,2,5,2,24,1
+Surf Excel Max,3,4,2,12,1
+Comfort Fresh,1,1,4,18,1
+Comfort Ultra,1,5,2,12,1
+Lifebuoy Care,5,10,2,12,1
+Colgate Lemon,2,8,3,12,1
+Rin Rose,6,10,3,18,1
+Lifebuoy Ultra,3,3,1,18,1
+Pears Fresh,5,11,2,12,1
+Pepsodent Max,6,6,2,24,1
+Surf Excel Care,1,8,4,12,1
+Exo Active,4,11,2,12,1
+Clinic Plus Max,6,5,4,24,1
+Closeup Max,1,5,3,36,1
+Exo Fresh,3,11,2,36,1
+Vim Care,1,7,2,36,1
+Rin Active,4,10,3,36,1
+Clinic Plus Strong,1,1,2,36,1
+Surf Excel Rose,5,6,2,18,1
+Colgate Plus,2,9,2,12,1
+Rin Max,4,4,3,18,1
+Lifebuoy Herbal,3,1,4,12,1
+Clinic Plus Care,5,7,2,36,1
+Clinic Plus Rose,2,1,4,18,1
+Vim Ultra,1,3,2,18,1
+Lifebuoy Lemon,6,1,3,12,1
+Vim Rose,4,9,3,36,1
+Closeup Rose,2,7,4,24,1
+Comfort Lemon,4,3,1,12,1
+Fiama Herbal,2,8,4,18,1
+Fiama Max,1,2,2,24,1
+Exo Ultra,1,8,1,12,1
+Wheel Active,6,6,1,12,1
+Vim Strong,1,2,1,18,1
+Wheel Herbal,3,3,2,12,1
+Colgate Rose,3,3,3,24,1
+Comfort Strong,3,9,4,18,1
+Pears Rose,5,4,3,24,1
+Lifebuoy Care,2,7,2,24,1
+Pepsodent Max,2,5,1,12,1
+Colgate Herbal,5,9,1,24,1
+Vim Ultra,3,7,3,18,1
+Colgate Ultra,1,8,2,18,1
+Lifebuoy Plus,5,5,3,24,1
+Lux Fresh,2,3,3,36,1
+Exo Lemon,3,1,2,36,1
+Dove Rose,6,1,1,12,1

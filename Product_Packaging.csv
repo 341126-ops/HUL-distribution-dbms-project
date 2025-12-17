@@ -1,0 +1,5 @@
+packaging_type,material,recyclable_flag
+Wrapper,Plastic,0
+Bottle,Plastic,1
+Pouch,Plastic,1
+Box,Cardboard,1
