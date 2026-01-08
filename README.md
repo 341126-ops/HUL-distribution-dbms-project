@@ -1,5 +1,3 @@
-# HUL-Distribution-DBMS-Project
-Hindustan Unilever Distribution Management System
 # HUL Distribution DBMS Project
 
 ## Introduction
@@ -37,8 +35,6 @@ The database is designed using an **Entity-Relationship (ER) Model** and later c
 - Clear separation of **master data** and **transactional data**  
 - Use of **primary keys** to uniquely identify records  
 - Use of **foreign keys** to maintain relationships between entities  
-- Implementation of **indexes** for faster data retrieval  
-- Normalization up to **Third Normal Form (3NF)**  
 
 
 ## Module-wise Description
@@ -167,8 +163,7 @@ Resolved via junction tables:
 - Primary Key (PK)  
 - Foreign Key (FK)  
 - NOT NULL  
-- UNIQUE  
-- Indexed columns for performance  
+- UNIQUE   
 
 ## ER Diagram
 The ER diagram visually represents:
