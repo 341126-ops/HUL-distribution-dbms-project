@@ -1,6 +1,6 @@
 # HUL-Distribution-DBMS-Project
 Hindustan Unilever Distribution Management System
-**Project Overview**
+<br>**Project Overview**<br/>
 This project is a Database Management System (DBMS) design that models the end-to-end distribution network of Hindustan Unilever Limited (HUL). It captures the complete supply chain flow — from factory production to warehouse storage, distributor allocation, retailer sales, inventory tracking, and financial transactions.
 The project focuses on database normalization, relational integrity, and real-world business mapping using a comprehensive ER Diagram and relational schema.
 **Objectives**
