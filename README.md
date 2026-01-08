@@ -7,7 +7,6 @@ Hindustan Unilever Limited (HUL) operates one of the largest and most complex FM
 
 This project presents a **comprehensive Database Management System (DBMS)** designed to model HUL’s **end-to-end distribution and supply chain operations**. The database is built using **relational database principles** and accurately reflects real-world business workflows such as manufacturing, inventory control, logistics, sales order processing, and payment management.
 
----
 
 ## Project Objectives
 The primary objectives of this project are:
@@ -18,7 +17,6 @@ The primary objectives of this project are:
 - To support tracking of products from factory to end retailer  
 - To manage financial transactions, invoices, and tax records  
 
----
 
 ## Business Scope Covered
 The database captures the following real-world business processes:
@@ -31,7 +29,6 @@ The database captures the following real-world business processes:
 - Delivery and transport logistics  
 - Invoice generation and payment processing  
 
----
 
 ## Database Design Overview
 The database is designed using an **Entity-Relationship (ER) Model** and later converted into a **Relational Schema**.
@@ -43,7 +40,6 @@ The database is designed using an **Entity-Relationship (ER) Model** and later c
 - Implementation of **indexes** for faster data retrieval  
 - Normalization up to **Third Normal Form (3NF)**  
 
----
 
 ## Module-wise Description
 
@@ -63,7 +59,6 @@ This module handles all product-related master data.
 - Supports multiple price points and tax slabs  
 - Enables tracking of product variations and categories  
 
----
 
 ### 2. Manufacturing & Factory Module
 This module manages production-level operations.
@@ -81,7 +76,6 @@ This module manages production-level operations.
 - Maintains quality check results for compliance and safety  
 - Associates machines with factory sections  
 
----
 
 ### 3. Warehouse & Inventory Module
 Responsible for stock storage and movement.
@@ -97,7 +91,6 @@ Responsible for stock storage and movement.
 - Records inward and outward stock movement  
 - Enables auditability of inventory changes  
 
----
 
 ### 4. Distribution & Logistics Module
 Manages movement of goods across the supply chain.
@@ -114,7 +107,6 @@ Manages movement of goods across the supply chain.
 - Tracks deliveries against orders  
 - Records transport and vehicle allocation for shipments  
 
----
 
 ### 5. Sales & Order Management Module
 Handles order lifecycle from placement to fulfillment.
@@ -130,7 +122,6 @@ Handles order lifecycle from placement to fulfillment.
 - Records sales orders and line items  
 - Links orders to distributors and deliveries  
 
----
 
 ### 6. Geographic Mapping Module
 Supports location-based analysis and distribution planning.
@@ -144,7 +135,6 @@ Supports location-based analysis and distribution planning.
 - Organizes distributors and retailers geographically  
 - Enables region-wise reporting and logistics optimization  
 
----
 
 ### 7. Finance & Payment Module
 Manages billing and financial records.
@@ -162,7 +152,6 @@ Manages billing and financial records.
 - Records payment mode, amount, and date  
 - Supports financial year-wise reporting  
 
----
 
 ## Relationships & Constraints
 
@@ -181,23 +170,13 @@ Resolved via junction tables:
 - UNIQUE  
 - Indexed columns for performance  
 
----
-
-## Tools & Technologies
-- **Database:** MySQL  
-- **Modeling Tool:** MySQL Workbench  
-
-**Design Approach:**
-- ER Modeling  
-- Relational Mapping  
-- Normalization  
-
----
-
 ## ER Diagram
 The ER diagram visually represents:
 - All entities and attributes  
 - Relationship cardinalities  
-- Foreign key dependencies  
+- Foreign key dependencies
+
+- <img width="1282" height="820" alt="image" src="https://github.com/user-attachments/assets/4d06f575-79e3-43aa-925b-298d4d678498" />
+
 
 
